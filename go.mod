@@ -1,4 +1,4 @@
-module gopherapi
+module tutorial_rest
 
 go 1.17
 
